@@ -1,5 +1,13 @@
-# ai-test
-A repository where we run various tests for AI development.
+# Ai-Test
+
+> A repository that does this and that for AI development
+
+## Table of Contents
+[chunk to chunk similarity](#chunk-to-chunk-similarity)  
+[similarity king : 왕](#similarity-king--왕)  
+[mac use mps for fine tuning](#mac-use-mps-for-fine-tuning)  
+[original llm vs quantized llm](#original-llm-vs-quantized-llm)  
+
 
 ## chunk to chunk similarity
 
@@ -10,7 +18,7 @@ A repository where we run various tests for AI development.
 <img width="434" alt="스크린샷 2024-07-27 오후 6 22 58" src="https://github.com/user-attachments/assets/162402f4-0785-40e4-88cb-7604d820ed5a">
 <img width="434" alt="스크린샷 2024-07-27 오후 6 23 10" src="https://github.com/user-attachments/assets/ba57c6e6-91ba-4b96-a010-22c9da3689ff">
 
-## mac use mps
+## mac use mps for fine tuning
 
 <img width="383" alt="스크린샷 2024-07-27 오후 6 23 19" src="https://github.com/user-attachments/assets/be46aaf3-7e94-478e-926e-543c40e57840">
 
@@ -31,3 +39,11 @@ A repository where we run various tests for AI development.
 <img width="158" alt="스크린샷 2024-07-27 오후 5 45 07" src="https://github.com/user-attachments/assets/78f48d32-f09b-4786-a83d-33dc3c8d8d8d">
 </br></br>
 <img width="583" alt="스크린샷 2024-07-27 오후 6 32 00" src="https://github.com/user-attachments/assets/38c99b73-73d9-47ab-8489-7a3dc239019e">
+
+</br>
+<div align="right">
+  
+[Table of Contents](#table-of-contents)
+
+</div>
+</br></br>
