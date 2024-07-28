@@ -34,7 +34,7 @@
 
 <img width="142" alt="스크린샷 2024-07-27 오후 5 34 43" src="https://github.com/user-attachments/assets/0594779c-6279-4d0a-b2ed-d1d9610c9eae">
 
-### 이건 쿠다로 텐서를 옮길 때. but 양자화 연산을 쿠다에서 지원 안 해서 괜히 했음
+### 이건 쿠다로 텐서를 옮길 때. but pytorch는 양자화 연산을 쿠다에서 지원 안 함 -> 엔비디아에서 낸 tensorRT 라이브러리는 됨
 
 <img width="158" alt="스크린샷 2024-07-27 오후 5 45 07" src="https://github.com/user-attachments/assets/78f48d32-f09b-4786-a83d-33dc3c8d8d8d">
 </br></br>
